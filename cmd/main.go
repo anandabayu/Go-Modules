@@ -8,4 +8,6 @@ import (
 func main() {
 	fmt.Println("Hai")
 	pkg.BayPrinter("Ini Pakai Printer")
+
+	pkg.BayPrinter("New Printer")
 }
